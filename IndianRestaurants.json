@@ -1,5 +1,5 @@
 {
-  "IndianRestaurents": [
+  "IndianRestaurants": [
     {"name": "Mehak Indian Restaurant","description": "Remember us for the best Authentic Indian Foods with better quality and price","options": "Veg/Non-Veg", "accessibility": "WheelChair","time": "9am - 9pm", "foodCost": "$$$","contact": "703-999-000", "imageName": "Goat Curry.jpeg","websiteAddress": "Mehaksouthriding.com”},
     {"name": "Chennai Express","description": "Southern Indian staples like dosas, biryani & spicy curries plated in a basic, sit-down place.", "options": "Veg/Non-Veg", "accessibility": "No","time": "10am - 10pm", "foodCost": "$$", "contact": "703-888-000","imageName": "Egg Curry.jpeg", "websiteAddress": "https://www.chennaiexpressva.com/”},
     {"name": "Athidhi Authentic Indian Cuisine", "description": "Authentic Veg/Non-Veg must try", "options": "Veg/Non-Veg", "accessibility": "WheelChair","time": "10:30am - 10pm", "foodCost": "$$", "contact": "703-777-000", "imageName": "Chicken Tikka.jpeg","websiteAddress": "http://athidhiusa.com/"},
